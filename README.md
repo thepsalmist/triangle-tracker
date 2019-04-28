@@ -12,7 +12,7 @@ CSS
 Javascript
 Markdown Syntax
 
-##Link to view the Application
+Link to view the Application
 https://thepsalmist.github.io/triangle-tracker/
 
 ## Support and contact details
