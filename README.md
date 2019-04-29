@@ -12,6 +12,15 @@ CSS
 Javascript
 Markdown Syntax
 
+BDD:
+The triangle tracker app is therefore expected to work as following:
+  Be able to display an input button for the user.
+  Display a submit and a refresh function.
+  If the values entered by the user are all equal - The result should be "Equilateral triangle: All sides are equal".
+  If the user enters two equal sides - The result should be "Isosceles triangle: Two sides are equal"
+  If the user enter values that aren't equal - The result should be "Scalene: No sides are equal"
+  And if the values entered by the user are quite unrealistic to make a triangle, the the result will be "Not a triangle"
+
 Link to view the Application
 https://thepsalmist.github.io/triangle-tracker/
 
